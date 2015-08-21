@@ -1,0 +1,22 @@
+.left_content
+{
+	float:left;
+	width:900px;
+	border-right-width:1px; 
+	border-right-style:solid;
+	border-right-color:rgb(229, 229, 229);
+	padding : 6px 13px 15px 0;
+	margin :4px 0 0; 
+}
+.right_content
+{
+
+	float:right;
+	width:300px;
+	border-right-width:1px; 
+	border-right-style:solid;
+	border-right-color:rgb(229, 229, 229);
+	padding :6px 0px 15px 13px;
+	margin :4px 0 0 -1px; 
+	
+}
